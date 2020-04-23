@@ -27,7 +27,7 @@ Contiene los campos id_ur, nombrel, nombrec y abrv
 
 
 cat_ur es un catálogo de delegaciones en las entidades federativas que incluye nombre largo, nombre corto y abreviatura.
-estadis es una tabla que contiene un id_ur para relacionarse con la tanbla cat_ur; estatabla contiene altas y bajas de un campo id_ebdi y de un año 2019 y mes di.
+estadis es una tabla que contiene un id_ur para relacionarse con la tabla cat_ur; esta tabla contiene altas y bajas de un campo id_ebdi y de un año 2019 y mes di.
 
 
 - Determina si te es posible obtener resultados aplicando filtros y contando al contenido de la tabla, en caso afirmativo construye tus consultas SQL y obtén tus resultados.
